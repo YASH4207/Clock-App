@@ -7,6 +7,7 @@ import java.util.Calendar;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
 
+@SuppressWarnings("serial")
 public class MyFrame extends JFrame{
 	
 //	Calendar calendar;
